@@ -6,7 +6,7 @@ import { ADDRESS_ZERO } from './constants'
 import { PermitOptions, SelfPermit } from './selfPermit'
 import { encodeRouteToPath } from './utils'
 import { MethodParameters, toHex } from './utils/calldata'
-import SwapRouterABI from './abis/xswp-router.json'
+import SwapRouterABI from './abis/xswap-router.json'
 import { Multicall } from './multicall'
 import { FeeOptions, Payments } from './payments'
 
